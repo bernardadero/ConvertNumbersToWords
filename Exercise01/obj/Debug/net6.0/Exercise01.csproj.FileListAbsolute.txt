@@ -1,0 +1,12 @@
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\bin\Debug\net6.0\Exercise01.deps.json
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\bin\Debug\net6.0\Exercise01.dll
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\bin\Debug\net6.0\Exercise01.pdb
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.csproj.AssemblyReference.cache
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfoInputs.cache
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfo.cs
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.dll
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\refint\Exercise01.dll
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\Exercise01.pdb
+C:\_WorkSpace\_TechnoBrain\FinalSolution\ConvertNumbersToWordsSolution\Exercise01\obj\Debug\net6.0\ref\Exercise01.dll
